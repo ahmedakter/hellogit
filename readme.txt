@@ -1,0 +1,9 @@
+* init => git init
+* status => git status
+* track files or folder => git add readme.txt
+* init =>
+* init =>
+* init =>
+* init =>
+* init =>
+* init =>
