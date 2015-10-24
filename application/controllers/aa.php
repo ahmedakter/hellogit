@@ -19,7 +19,7 @@ class AA extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('welcome_message');
+		echo "I Love You TukTuki";
 	}
 }
 
